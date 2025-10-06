@@ -11,8 +11,9 @@ A collection of privacy-focused repositories and projects created and maintained
 
 ## Projects
 
-- **pibound** - https://github.com/Martian1337/pibound -
-A universal, minimal, and user-friendly firewall script tailored for Linux and BSD hosts running DNS services like Pi-hole and Unbound. It focuses on DNS privacy through options for DNS-over-TLS (DoT) and DNS-over-HTTPS (DoH), enabling secure inbound and outbound traffic control with multi-backend firewall support.
+- **privama** - https://github.com/Martian1337/privama - Privacy-first local AI dev toolkit and installation workflow with Ollama
+
+- **pibound** - https://github.com/Martian1337/pibound - A universal, minimal, and user-friendly firewall script tailored for Linux and BSD hosts running DNS services like Pi-hole and Unbound. It focuses on DNS privacy through options for DNS-over-TLS (DoT) and DNS-over-HTTPS (DoH), enabling secure inbound and outbound traffic control with multi-backend firewall support.
 
 
 ## Security Notice
